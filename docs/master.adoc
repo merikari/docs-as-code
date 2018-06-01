@@ -1,4 +1,4 @@
-= Sample Doc - Jouni Merikari
+= Sample Doc - J
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
